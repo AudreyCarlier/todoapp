@@ -1,1 +1,42 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+
+    margin: 2% 5%;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: sans-serif;
+}
+
+.todo-input {
+
+    width: 50%;
+}
+
+.app {
+
+    -webkit-box-shadow: 5px 5px 22px 5px rgba(0,0,0,0.24); 
+    box-shadow: 5px 5px 22px 5px rgba(0,0,0,0.24);
+}
+
+.delete {
+
+    padding : 0.5% 1%;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.todo-input {
+
+
+
+    margin: 50px 0;
+    box-sizing: border-box;  
+}
+
+h1 {
+
+    padding-top: 30px;;
+}
